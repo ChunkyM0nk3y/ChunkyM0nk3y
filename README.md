@@ -1,7 +1,9 @@
 ## 💫 About me
 
 👋 Hi, I am Elena
+
 I am a robotics engineering student interested in software development, AI, computer vision and VR/AR.
+
 I love creating new things and bringing ideas to life
 
 ### 🔭 I am currently working on:
