@@ -1,14 +1,14 @@
-<img width="1108" height="617" alt="image" src="https://github.com/user-attachments/assets/e699eed4-6c54-4c9d-a6db-5bcf01ec98d4" />## Hi there 👋
+## Hi there 👋
 
 I am a robotics engineering student interested in software development, AI, computer vision and VR/AR.
 
-# 🔭 I am currently working on:
+### 🔭 I am currently working on:
 - my own personal website and trying to learn web development
 
-# I love working with:
+### I love working with:
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> 
 
-# 📫 Socials and where to reach me:
+### 📫 Socials and where to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-marcsov%C3%A1-085405326/)
 <!--
 **ChunkyM0nk3y/ChunkyM0nk3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
